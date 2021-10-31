@@ -74,11 +74,12 @@ macos系统的目录结构和Linux有些类似，由一个最大的目录‘/’
 
 这应该就是我这个用户，不知道里面是干什么的，试试看  
 
-![Uploading 截屏2021-10-31 18.59.38.png…]()  
+![截屏2021-10-31 19 30 07](https://user-images.githubusercontent.com/74129445/139580892-640f5394-13d8-43a4-ae01-ccb4faa127bb.png)  
+
 
 wdf,为什么又有一个library？我得查查有几个library，要区分好  
 
-一个是根目录下的Library  
+**一个是根目录下的Library**  
 
 ![截屏2021-10-31 19 20 21](https://user-images.githubusercontent.com/74129445/139580479-5d903080-0d56-4c02-bca8-ac85033075be.png)  
 
@@ -86,7 +87,7 @@ wdf,为什么又有一个library？我得查查有几个library，要区分好
 
 
 
-一个是system下的Library  
+**一个是system下的Library**  
 
 ![截屏2021-10-31 19 21 20](https://user-images.githubusercontent.com/74129445/139580534-0b559ea9-e4db-4813-b392-f50f7ddaf7af.png)  
 
@@ -94,11 +95,45 @@ wdf,为什么又有一个library？我得查查有几个library，要区分好
 
 
 
-一个是用户目录下的Library(注：～等价于/User/ccf)  
+**一个是用户目录下的Library(注：～等价于/User/ccf,也就是home目录，系统默认为～)**  
 
 ![截屏2021-10-31 19 23 28](https://user-images.githubusercontent.com/74129445/139580648-7e20af58-ebe4-4c19-b6f1-1c0daaabb98e.png)  
 
 用户库：位于Macintosh HD/Users/youruseraccount/Library/您最需要熟悉的库。它更新最频繁，因为它存储应用程序首选项、应用程序支持文件、缓存等  
+
+
+
+* cores
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

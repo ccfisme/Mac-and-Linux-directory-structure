@@ -109,9 +109,19 @@ wdf,为什么又有一个library？我得查查有几个library，要区分好
 
 ？？？？  
 
-我不李姐  
+我不李姐，为什么什么都没有？？  
 
-为什么
+搜索：https://www.jianshu.com/p/a2f10010b384  
+
+发现这是一个gcc段错误（段错误应该就是访问了不可访问的内存，这个内存区要么是不存在的，要么是受到系统保护的，参考：https://www.cnblogs.com/hello--the-world/archive/2012/05/31/2528326.html） 后产生错误信息的文件，真的假的？？我试试  
+
+根据提示  
+
+![FireShot Capture 036 - 如何在mac上分析coredump文件 - 简书 - www jianshu com](https://user-images.githubusercontent.com/74129445/139581211-a26114b6-63d2-4211-82a1-e68c2b82af33.png)  
+
+我先写个错误  
+
+
 
 
 

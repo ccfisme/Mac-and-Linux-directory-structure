@@ -95,7 +95,7 @@ wdf,为什么又有一个library？我得查查有几个library，要区分好
 
 
 
-**一个是用户目录下的Library(注：～等价于/User/ccf,也就是home目录，系统默认为～)**  
+**一个是用户目录下的Library(注：～等价于/User/ccf/,也就是home目录，系统默认为～)**  
 
 ![截屏2021-10-31 19 23 28](https://user-images.githubusercontent.com/74129445/139580648-7e20af58-ebe4-4c19-b6f1-1c0daaabb98e.png)  
 

@@ -62,13 +62,13 @@ macos系统的目录结构和Linux有些类似，由一个最大的目录‘/’
 
 实在是太多了，我的实践里根本没有这么多，我准备一一试试看  
 
-* Applications
+# Applications
 
 ![截屏2021-10-31 18 50 38](https://user-images.githubusercontent.com/74129445/139579199-eb7b9271-d557-4fe7-84c7-dcc6d8e06047.png)  
 
 这没什么说的，就是我安装的那些软件  
 
-* Users  
+# Users  
 
 ![截屏2021-10-31 18 52 38](https://user-images.githubusercontent.com/74129445/139579304-84236a7b-2b6c-443c-b1a5-a10417d1a950.png)  
 
@@ -103,7 +103,7 @@ wdf,为什么又有一个library？我得查查有几个library，要区分好
 
 
 
-* cores
+# cores
 
 ![截屏2021-10-31 19 34 44](https://user-images.githubusercontent.com/74129445/139581091-f77d2322-f69d-450e-962d-49573ba2f26e.png)  
 

@@ -113,7 +113,7 @@ wdf,为什么又有一个library？我得查查有几个library，要区分好
 
 搜索：https://www.jianshu.com/p/a2f10010b384  
 
-发现这是一个gcc段错误（段错误应该就是访问了不可访问的内存，这个内存区要么是不存在的，要么是受到系统保护的，参考：https://www.cnblogs.com/hello--the-world/archive/2012/05/31/2528326.html） 后产生错误信息的文件，真的假的？？我试试  
+发现这是一个gcc段错误（段错误应该就是访问了不可访问的内存，这个内存区要么是不存在的，要么是受到系统保护的，段错误参考：https://www.cnblogs.com/hello--the-world/archive/2012/05/31/2528326.html） 后产生错误信息的文件，真的假的？？我试试  
 
 根据提示  
 

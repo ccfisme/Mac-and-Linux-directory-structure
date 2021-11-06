@@ -67,6 +67,126 @@ macos系统的目录结构和Linux有些类似，由一个最大的目录‘/’
 
 
 
+# Applications
+
+![截屏2021-10-31 18 50 38](https://user-images.githubusercontent.com/74129445/139579199-eb7b9271-d557-4fe7-84c7-dcc6d8e06047.png)  
+
+这没什么说的，就是我安装的那些软件  
+
+
+
+
+# Users  
+
+这应该就是我这个用户，不知道里面是干什么的，试试看  
+
+![截屏2021-10-31 18 52 38](https://user-images.githubusercontent.com/74129445/139579304-84236a7b-2b6c-443c-b1a5-a10417d1a950.png)  
+
+
+存放用户的个人资料和配置（我的就是ccf）。每个用户有自己的单独目录。  
+
+
+![截屏2021-10-31 19 30 07](https://user-images.githubusercontent.com/74129445/139580892-640f5394-13d8-43a4-ae01-ccb4faa127bb.png)  
+
+
+wdf,为什么又有一个library？我得查查有几个library，要区分好  
+
+**一个是根目录下的Library**  
+
+![截屏2021-10-31 19 20 21](https://user-images.githubusercontent.com/74129445/139580479-5d903080-0d56-4c02-bca8-ac85033075be.png)  
+
+本地库：位于/Library/由系统上的所有用户共享，并存储各种资源。属于计算机上的所有用户，但仅管理员和root用户可以访问。在大多数情况下，您应该没有理由访问二级库。  
+
+
+
+**一个是system下的Library**  
+
+![截屏2021-10-31 19 21 20](https://user-images.githubusercontent.com/74129445/139580534-0b559ea9-e4db-4813-b392-f50f7ddaf7af.png)  
+
+系统库：位于/System/Library/处，用于存储操作系统。它是只读的，以保护系统（尽管超级用户可以进行更改），因此不会像其他库文件夹那样存储任何首选项文件  
+
+
+
+**一个是用户目录下的Library(注：～等价于/User/ccf/,也就是home目录，系统默认为～)**  
+
+![截屏2021-10-31 19 23 28](https://user-images.githubusercontent.com/74129445/139580648-7e20af58-ebe4-4c19-b6f1-1c0daaabb98e.png)  
+
+用户库：位于Macintosh HD/Users/youruseraccount/Library/您最需要熟悉的库。它更新最频繁，因为它存储应用程序首选项、应用程序支持文件、缓存等  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
